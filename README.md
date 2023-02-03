@@ -28,11 +28,9 @@ In addition to the main requirements, the app also includes the following bonus 
 
 https://youtu.be/gEtfc4s-yV4
 ### Here's a demo of the app running on an Android device:
-Battery Status Flutter Challenge on Android
-
+https://youtu.be/KSlZ4vthShY
 ### Here's a demo of the app running on an Android Watch (Wear OS) device:
-Battery Status Flutter Challenge on Android
-
+https://youtu.be/mDItB16LKrc
 ##
 
 # How to use
